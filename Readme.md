@@ -1,6 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/10/user/519889).
+* Наставник: [Неопознанный енот](https://up.htmlacademy.ru/javascript/10/user/519889).
 
 ---
 
